@@ -1,0 +1,5 @@
+#surefire
+#Sat Feb 07 23:00:09 EST 2015
+user.dir=/home/centos/Maven/mavenExamples/simpleWeather/simple-weather
+localRepository=/home/centos/.m2/repository
+basedir=/home/centos/Maven/mavenExamples/simpleWeather/simple-weather
